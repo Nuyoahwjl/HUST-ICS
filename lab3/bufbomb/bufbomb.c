@@ -59,7 +59,7 @@ void initialize_bomb(char *userid)
 #ifdef U3
     if (userid[len - 1] == '3')
     {
-        w = 2 * x + 3 * y + 4 * u + x;
+        w = 2 * x + 3 * y + 4 * u + x; // 250
         return;
     }
 #endif
