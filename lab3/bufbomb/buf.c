@@ -125,7 +125,7 @@ int getbuf(char *src, int len)
 #endif
 
      char buf[NORMAL_BUFFER_SIZE];
-
+     printf("buf_location:%p\n",buf);
      Gets(buf, src, len);
      return 1;
 }
