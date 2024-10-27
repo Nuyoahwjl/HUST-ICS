@@ -29,7 +29,7 @@ int main(int argc, const char *argv[])
      printf("please input you stuid : ");
      scanf("%s",stuid);
      cookie = gencookie(stuid);
- 
+
      if (phase)
          (*phase)(cookie);
      else  {
