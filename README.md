@@ -4,3 +4,4 @@
 - [x] GBD
 - [x] readelf
 - [x] hexedit
+- [x] QEMU
