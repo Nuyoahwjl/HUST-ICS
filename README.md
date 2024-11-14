@@ -6,14 +6,14 @@
 - [x] hexedit
 - [x] QEMU
 
-<details
+<details>
   <summary>☝️</summary>
   <div align="center">
 	<table>
 	  <tr>
 		  <td align="left">
 		    <a href="https://myoctocat.com">
-			    <img src="./Cat.png" alt="Octocat" width="540" />
+			    <img src="https://github.com/Nuyoahwjl/HUST-CS/main/Cat.png" alt="Octocat" width="540" />
 		    </a>
 		  </td>
 		  <td align="right">
