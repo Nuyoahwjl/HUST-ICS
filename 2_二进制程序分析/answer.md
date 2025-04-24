@@ -6,7 +6,7 @@
 0x565564e3 <+22>:	push   0x1c(%esp)
 0x565564e7 <+26>:	call   0x56556a1a <strings_not_equal>
 ```
-![alt text](./png/15.png)
+![](https://cdn.jsdelivr.net/gh/Nuyoahwjl/HUST-ICS/2_二进制程序分析/png/15.png)
 
 
 ----------
